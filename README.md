@@ -8,7 +8,7 @@ Some of these files are pointless, some are powerful. Feel free to have some fun
 
 This collection will never stop growing :)
 
-A HIGHLIGHT: Check out /music/GUITARPIANO and run pianoguitar.py
+A PERSONAL FAV: Check out /music/GUITARPIANO and run pianoguitar.py
 
 Began sometime in summer of 2020
 
